@@ -11,6 +11,8 @@
 		3C404E9F2ADA6DFA00059C73 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C404E9E2ADA6DFA00059C73 /* ContentView.swift */; };
 		3C404EA12ADA6E0000059C73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C404EA02ADA6E0000059C73 /* Assets.xcassets */; };
 		3C404EA42ADA6E0000059C73 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C404EA32ADA6E0000059C73 /* Preview Assets.xcassets */; };
+		3C404EAD2ADA757900059C73 /* TreasureHuntModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C404EAC2ADA757900059C73 /* TreasureHuntModel.swift */; };
+		3CE841732ADAFEBA00FF069D /* DetailContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE841722ADAFEBA00FF069D /* DetailContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		3C404E9E2ADA6DFA00059C73 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3C404EA02ADA6E0000059C73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C404EA32ADA6E0000059C73 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3C404EAC2ADA757900059C73 /* TreasureHuntModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreasureHuntModel.swift; sourceTree = "<group>"; };
+		3CE841722ADAFEBA00FF069D /* DetailContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				3C404E9E2ADA6DFA00059C73 /* ContentView.swift */,
 				3C404EA02ADA6E0000059C73 /* Assets.xcassets */,
 				3C404EA22ADA6E0000059C73 /* Preview Content */,
+				3C404EAC2ADA757900059C73 /* TreasureHuntModel.swift */,
+				3CE841722ADAFEBA00FF069D /* DetailContentView.swift */,
 			);
 			path = Exercise6_Waobikeze_Brian;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			files = (
 				3C404E9F2ADA6DFA00059C73 /* ContentView.swift in Sources */,
 				3C404E9D2ADA6DFA00059C73 /* Exercise6_Waobikeze_BrianApp.swift in Sources */,
+				3C404EAD2ADA757900059C73 /* TreasureHuntModel.swift in Sources */,
+				3CE841732ADAFEBA00FF069D /* DetailContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
